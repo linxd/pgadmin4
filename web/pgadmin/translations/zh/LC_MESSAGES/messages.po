@@ -8437,7 +8437,7 @@ msgstr "已经连接到数据库服务器。"
 #: pgadmin/browser/server_groups/servers/static/js/server.js:80
 #: pgadmin/browser/server_groups/servers/static/js/server.js:257
 msgid "Disconnect from server"
-msgstr "端口服务器连接"
+msgstr "断开服务器连接"
 
 #: pgadmin/browser/server_groups/servers/static/js/server.js:82
 msgid "Database server is already disconnected."
